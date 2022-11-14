@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![DNamoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNamoon&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNamoon&layout=compact&theme=material-palenight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNamoon&layout=compact&theme=material-palenight)
